@@ -1,0 +1,61 @@
+Graph = {
+0 [label="Nodo0_0"];
+1 [label="Nodo1_52"];
+6 [label="Nodo6_93"];
+7 [label="Nodo7_103"];
+2 [label="Nodo2_116"];
+12 [label="Nodo12_122"];
+13 [label="Nodo13_124"];
+18 [label="Nodo18_126"];
+19 [label="Nodo19_126"];
+8 [label="Nodo8_130"];
+14 [label="Nodo14_141"];
+3 [label="Nodo3_152"];
+24 [label="Nodo24_153"];
+4 [label="Nodo4_180"];
+9 [label="Nodo9_180"];
+10 [label="Nodo10_192"];
+15 [label="Nodo15_193"];
+20 [label="Nodo20_197"];
+25 [label="Nodo25_206"];
+26 [label="Nodo26_228"];
+16 [label="Nodo16_240"];
+11 [label="Nodo11_247"];
+21 [label="Nodo21_251"];
+5 [label="Nodo5_257"];
+22 [label="Nodo22_270"];
+17 [label="Nodo17_275"];
+27 [label="Nodo27_286"];
+23 [label="Nodo23_316"];
+28 [label="Nodo28_344"];
+29 [label="Nodo29_375"];
+0 -> 1 
+0 -> 6 
+1 -> 7 
+1 -> 2 
+6 -> 12 
+7 -> 13 
+12 -> 18 
+13 -> 19 
+7 -> 8 
+8 -> 14 
+2 -> 3 
+18 -> 24 
+3 -> 4 
+8 -> 9 
+9 -> 10 
+14 -> 15 
+19 -> 20 
+19 -> 25 
+25 -> 26 
+15 -> 16 
+10 -> 11 
+15 -> 21 
+4 -> 5 
+16 -> 22 
+16 -> 17 
+21 -> 27 
+22 -> 23 
+22 -> 28 
+23 -> 29 
+}
